@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "360035761936",
+    "project_id": "massage-new",
+    "storage_bucket": "massage-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360035761936:android:0e6bc309d46efd8239ef95",
+        "android_client_info": {
+          "package_name": "com.example.massage_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360035761936-n08ksrv2odoo6mqjk37m9sp7qh309obs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBMFMlsx6BEIxcECl7dO2j21PGl5mf3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360035761936-n08ksrv2odoo6mqjk37m9sp7qh309obs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360035761936-cv48mmeq4hkgcsg3plmlqbp9gpsbjfar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uey.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
