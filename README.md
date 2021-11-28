@@ -1,4 +1,4 @@
-# massage_new
+# Firebase App with Flutter
 
 A new Flutter project.
 
